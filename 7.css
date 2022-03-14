@@ -1,16 +1,32 @@
-.Name{
-    margin-left: 50px
-   
- }
- .Password{
-     margin-left: 27px;
- }
- h1{
-     background-color: chartreuse;
-     text-align: center;
-     text-decoration: double;
-     border-radius: 100px;
-    border-style: ridge;
-    margin: 10px;
-    
- }
+.body{
+    border: 30px;
+}
+.header{
+background-color: red;
+ color: white;
+ 
+}
+.Aravind{
+    padding-right: 60px;
+}
+.Last{
+    padding-left: 50px;
+}
+.Amalapuram{
+    padding-right: 60px; 
+}
+.Andhrapradesh{
+    padding-right: 60px; 
+}
+
+.City{
+    padding-right: 60px;
+    padding-left: 30px;
+}
+.State{
+    padding-right: 60px;
+    padding-left: 30px;
+}
+.Zip{
+    padding-left: 60px;
+} 
